@@ -1,4 +1,4 @@
-* {
+﻿* {
     box-sizing:border-box;
 }
 /* se inserta un un valor de 8px a la propiedad MARGIN para que haya una separación entre los bloques,
@@ -7,7 +7,7 @@ según la vista a replicar */
 según la vista a replicar */
 
 div{
-    height:100px;
+    height:150px;
     margin : 8px;
     padding: 8px;
     font-family: Palatino;
